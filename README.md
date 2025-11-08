@@ -24,7 +24,7 @@ Since I couldn't find the tool I needed, I built it. **QR-Snapper** is a lightwe
 
 ## How to Use
 
-1.  **[Releases page](https://github.com/SaleemAlsalehUAE/QR-Snapper/releases/latest)**.
+1.  Go to the **[Releases page](https://github.com/SaleemAlsalehUAE/QR-Snapper/releases/latest)**.
 2.  Download the latest `QRCodeSnapper.exe` file.
 3.  Run the executable. A small control window will appear.
 4.  Click "New Snip" (or press `Alt+N`) to activate the overlay.
